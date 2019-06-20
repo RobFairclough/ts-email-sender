@@ -1,3 +1,3 @@
 # email-buddy
 
-send emails for bols
+send emails - maybe lambda maybe a basic server for ec2
